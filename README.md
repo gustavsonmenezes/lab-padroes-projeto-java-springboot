@@ -1,8 +1,9 @@
 Padrões de Projeto Java com Spring Boot
-📋 Sobre o Projeto
+
+# 📋 Sobre o Projeto
 Este repositório contém uma aplicação Spring Boot desenvolvida como laboratório para estudos de padrões de projeto em Java. O projeto inclui uma API documentada com Swagger/OpenAPI e uma configuração de ambiente completa.
 
-🚀 Tecnologias e Ferramentas
+# 🚀 Tecnologias e Ferramentas
 Spring Boot - Framework principal para desenvolvimento da aplicação
 
 Java 100% - Linguagem de programação
