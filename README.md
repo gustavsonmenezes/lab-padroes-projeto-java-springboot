@@ -32,3 +32,42 @@ lab-padroes-projeto-java-springboot/
 ├── .gitignore                # Arquivos ignorados pelo Git
 ├── .gitattributes            # Atributos do Git
 └── README.md                 # Documentação do projeto
+
+```
+
+🔧 Configuração e Dependências
+O arquivo pom.xml contém as configurações e dependências do projeto, incluindo:
+
+Dependências do Spring Boot
+
+Configuração do Swagger/OpenAPI para documentação da API
+
+Configurações do Maven para build e execução
+
+📝 Histórico de Commits
+O desenvolvimento deste projeto ocorreu em dezembro de 2025:
+
+17/12/2025: Configuração inicial do ambiente e estrutura do projeto
+
+17/12/2025: Alterações no arquivo POM para configuração de dependências
+
+18/12/2025: Adição da configuração do Swagger/OpenAPI para documentação da API
+
+📚 Documentação da API
+O projeto inclui configuração do Swagger/OpenAPI, proporcionando:
+
+Documentação interativa dos endpoints da API
+
+Interface para teste dos endpoints diretamente do navegador
+
+Especificação OpenAPI para integração com outras ferramentas
+
+🎯 Objetivo de Aprendizado
+Este repositório serve como ambiente de laboratório para estudo e aplicação de padrões de projeto em conjunto com o ecossistema Spring Boot, focando em boas práticas de desenvolvimento de APIs e documentação.
+
+💻 Como Executar
+Clone o repositório
+
+Execute mvn spring-boot:run ou use o wrapper (./mvnw spring-boot:run)
+
+Acesse a documentação da API em http://localhost:8080/swagger-ui.html
